@@ -1,0 +1,22 @@
+.chartBlock {
+  margin-bottom: 4rem;
+  display:flex;
+  justify-content: space-between;
+  gap: 2rem;
+  /* box-shadow: var(--shadow); */
+
+}
+
+.leftChart{
+    width: 69%;
+    box-shadow: var(--shadow);
+    margin-left: 1rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.rightChart{
+    width: 25%;
+    box-shadow: var(--shadow);
+    margin-right: 1rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
